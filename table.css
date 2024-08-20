@@ -1,0 +1,29 @@
+h1 {
+  color: green;
+}
+
+p,
+h2 {
+  text-align: center;
+}
+
+h2 {
+  color: orange;
+}
+
+#body {
+  background-color: aquamarine;
+}
+
+.iframe {
+  display: flex;
+  justify-content: center;
+}
+
+iframe {
+  width: 560px;
+  height: 315px;
+}
+table {
+  width: 600px;
+}
